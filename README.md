@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Dhowfiq
 
 💡 **Data Analyst | Storyteller with Data | Problem Solver**  
 📊 Turning raw data into actionable insights with Python, SQL, Power BI & Tableau.  

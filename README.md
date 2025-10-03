@@ -23,7 +23,7 @@
 🔹 Performed **end-to-end analysis of customer transactions** to uncover purchase patterns, seasonal trends, and customer segments.  
 🔹 Applied **RFM analysis and clustering** to identify high-value and loyal customers for targeted marketing.  
 🔹 Built **visualizations in Python** (Matplotlib & Seaborn) to communicate insights effectively.  
-👉 [View Repository](#)  
+
 
 
 ---
@@ -32,7 +32,7 @@
 🔹 Built an **interactive Power BI dashboard** to analyze worldwide food wastage trends.  
 🔹 Explored food waste by **category, country, and year (2018–2024)** to highlight its **economic and social impact**.  
 🔹 Designed with a **modern layout** using KPI cards, maps, and charts for actionable insights.  
-👉 [View Repository](#)  
+
 
 
 ---
@@ -42,7 +42,7 @@
 🔹 Solved **15+ business problems** across easy, medium, and advanced levels.  
 🔹 Applied **advanced SQL techniques** including window functions, CTEs, and query optimization with indexing.  
 🔹 Improved query performance by **700%** using `EXPLAIN ANALYZE` and indexing strategies.  
-👉 [View Repository](#)  
+ 
 
 
 ---

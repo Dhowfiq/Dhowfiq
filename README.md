@@ -1,33 +1,66 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]  
 
-I'm [Your Name], a passionate Data Analyst with expertise in transforming raw data into meaningful insights and actionable strategies.
+💡 **Data Analyst | Storyteller with Data | Problem Solver**  
+📊 Turning raw data into actionable insights with Python, SQL, Power BI & Tableau.  
 
-I specialize in data visualization, business intelligence, and data-driven decision making using tools like SQL, Python, Excel, Power BI, and Tableau.
+---
 
-🚀 Skills & Tools
+## 🔧 Skills & Tools  
 
-Programming & Querying: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
-Visualization & BI: Tableau, Power BI, Excel (Pivot Tables, Power Query)
+---
 
-Data Handling: ETL, Data Cleaning, Data Wrangling
+## 📂 Featured Projects  
 
-Statistics & Analytics: Hypothesis Testing, Regression, A/B Testing, Forecasting
+### 📈 Sales Performance Dashboard  
+🔹 Built an **interactive Power BI dashboard** tracking sales KPIs, customer trends & regional performance.  
+👉 [View Repository](#)  
 
-Other Tools: Git, Jupyter Notebook, Google Data Studio
+---
 
-📂 Projects
+### 🛒 Customer Segmentation (Clustering)  
+🔹 Applied **K-Means Clustering in Python** to identify customer groups for marketing strategies.  
+👉 [View Repository](#)  
 
-Here are some of my highlighted projects:
+---
 
-📈 Sales Analysis Dashboard
-Created an interactive Power BI dashboard to track sales performance, regional growth, and customer trends.
-View Project
+### 🌍 COVID-19 Data Insights  
+🔹 Analyzed **global COVID-19 data using SQL & Tableau** to uncover patterns & trends.  
+👉 [View Repository](#)  
 
-🛒 Customer Segmentation using Clustering
-Applied K-Means clustering in Python to segment customers for targeted marketing strategies.
-View Project
+---
 
-🌍 COVID-19 Data Exploration
-Analyzed and visualized COVID-19 global trends using SQL and Tableau.
-View Project
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐️ Feel free to explore my repositories & projects. Feedback and collaboration are always welcome!
